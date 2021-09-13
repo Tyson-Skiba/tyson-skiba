@@ -1,46 +1,16 @@
-# Getting Started with Create React App
+<h1 align="center">Welcome, I'm Tyson Skiba</h1>
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+Im am currently a full stack engineer but have also worked as an RF engineer and have consulted on embedded systems projects using VHDL.  
+Most of my work that i now do is in the dev ops and people management space which means alot of project management and not so much coding.  
+Things on my github are a mix of experiments and challenges that i set myself so that my skills are still relevant.
+My more incomplete work and larger tasks such as my component library live on my gitlab and will probably never get to the point they are publicly available.
 
-## Available Scripts
+<h2>Follow Me</h2>
 
-In the project directory, you can run:
-
-### `yarn start`
-
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
-
-The page will reload if you make edits.\
-You will also see any lint errors in the console.
-
-### `yarn test`
-
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
-
-### `yarn build`
-
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
-
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
-
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
-
-### `yarn eject`
-
-**Note: this is a one-way operation. Once you `eject`, you can’t go back!**
-
-If you aren’t satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
-
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you’re on your own.
-
-You don’t have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn’t feel obligated to use this feature. However we understand that this tool wouldn’t be useful if you couldn’t customize it when you are ready for it.
-
-## Learn More
-
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
+- <a href="https://au.linkedin.com/in/tyson-skiba" target="blank"><img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg"  alt="linkedin" />Work History</a>
+- <a href="https://github.com/Tyson-Skiba" target="blank"><img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg"  alt="github" />Public Projects</a>
+- <a href="https://gitlab.com/tskiba" target="blank"><img src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/gitlab.svg"  alt="gitlab" />Private Projects</a>
+- <a href="https://medium.com/@tyson-skiba" target="blank"><img src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/medium.svg"  alt="medium" />Blog</a>
+- <a href="https://www.npmjs.com/~tyson-skiba" target="blank"><img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/npm.svg"  alt="npm" />Node Packages</a>
+- <a href="https://codesandbox.com/tyson-skiba" target="blank"><img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/codesandbox.svg"  alt="code" />Playground</a>
+- <a href="mailto:tyson@skiba.com.au" target="blank"><img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/mail-dot-ru.svg"  alt="contact" />Contact Me</a>
