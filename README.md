@@ -1,5 +1,7 @@
 <h1 align="center">Welcome, I'm Tyson Skiba</h1>
 
+[![My profile](https://img.shields.io/badge/demo-app-ff69b4)](https://tyson-skiba.github.io/tyson-skiba/) 
+
 Im am currently a full stack engineer but have also worked as an RF engineer and have consulted on embedded systems projects using VHDL.  
 Most of my work that i now do is in the dev ops and people management space which means alot of project management and not so much coding.  
 Things on my github are a mix of experiments and challenges that i set myself so that my skills are still relevant.
